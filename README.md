@@ -12,10 +12,10 @@
 
 | Project | Stack | Status |
 |---|---|---|
-| [Document QA Assistant (RAG)](link) | LangChain, ChromaDB, FAISS, Gradio | 🔄 In Progress |
-| [Chest X-ray Pneumonia Detection](link) | Keras, CNN, TensorFlow | 🔄 In Progress |
-| [League of Legends Match Predictor](link) | PyTorch, Binary Classification | 🔄 In Progress |
-| [Titanic Survival Prediction](link) | scikit-learn, GridSearchCV, Pipelines | ✅ Done |
+| [Document QA Assistant (RAG)](https://github.com/SutikshanUpman/Document-QA-Assistant-using-RAG) | LangChain, ChromaDB, FAISS, Gradio | 🔄 In Progress - Phase 1 |
+| [Chest X-ray Pneumonia Detection](https://github.com/SutikshanUpman/Chest-Xray-Pneumonia-Detection) | Keras, CNN, TensorFlow | 🔄 In Progress - Phase 2 |
+| [League of Legends Match Predictor](https://github.com/SutikshanUpman/League-of-Legends-Match-Predictor) | PyTorch, Binary Classification | 🔄 In Progress - Phase 2 |
+| [Titanic Survival Prediction](https://github.com/SutikshanUpman/Titanic_ML_prediction) | scikit-learn, GridSearchCV, Pipelines | <div align="center"> ✅ Done </div> |
 
 </div>
 
