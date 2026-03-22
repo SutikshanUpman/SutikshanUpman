@@ -12,10 +12,9 @@
 
 | Project | Stack | Status |
 |---|---|---|
-| [Document QA Assistant (RAG)](https://github.com/SutikshanUpman/Document-QA-Assistant-using-RAG) | LangChain, ChromaDB, FAISS, Gradio | 🔄 In Progress - Phase 1 |
+| [Document QA Assistant (RAG)](https://github.com/SutikshanUpman/Document-QA-Assistant-using-RAG) | LangChain, ChromaDB, FAISS, Gradio | 🔄 In Progress - Phase 0 |
 | [Chest X-ray Pneumonia Detection](https://github.com/SutikshanUpman/Chest-Xray-Pneumonia-Detection) | Keras, CNN, TensorFlow | 🔄 In Progress - Phase 2 |
-| [League of Legends Match Predictor](https://github.com/SutikshanUpman/League-of-Legends-Match-Predictor) | PyTorch, Binary Classification | 🔄 In Progress - Phase 2 |
-| [Titanic Survival Prediction](https://github.com/SutikshanUpman/Titanic_ML_prediction) | scikit-learn, GridSearchCV, Pipelines | <div align="center"> ✅ Done </div> |
+| [Land Classification System](https://github.com/SutikshanUpman/Land-classification-system) | Keras, Pytorch, CNN, Transfer Learning | 🔄 In Progress - Phase 1 |
 
 </div>
 
@@ -52,9 +51,10 @@
 
 ### 🏅 Certifications
 
+- Machine Learning with Python — IBM (Coursera)
 - Deep Learning with PyTorch — IBM (Coursera)
 - Deep Learning with Keras & TensorFlow — IBM (Coursera)
-- Machine Learning with Python — IBM (Coursera)
+- Generative AI and LLMs: Architecture and Data Preparation - IBM (Coursera)
 
 ---
 
