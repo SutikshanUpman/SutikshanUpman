@@ -13,7 +13,6 @@
 
 | Project | Stack | Status |
 |---|---|---|
-| [MediGuard-AI](https://github.com/SutikshanUpman/MediGuard-AI) | PyTorch (RL - PPO/DQN), OpenEnv, FastAPI, Gradio, Docker, NumPy, Pydantic | 🔄 In Progress - Phase 0 |
 | [Chest X-ray Pneumonia Detection](https://github.com/SutikshanUpman/Chest-Xray-Pneumonia-Detection) | Python, Keras, CNN, TensorFlow | 🔄 In Progress - Phase 2 |
 | [Land Classification System](https://github.com/SutikshanUpman/Land-classification-system) | Python, Keras, Pytorch, CNN, Transfer Learning | 🔄 In Progress - Phase 1 |
 
