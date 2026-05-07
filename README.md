@@ -64,10 +64,30 @@
 
 ### 🏅 Certifications
 
-- Machine Learning with Python — IBM (Coursera)
-- Deep Learning with PyTorch — IBM (Coursera)
-- Deep Learning with Keras & TensorFlow — IBM (Coursera)
-- Generative AI and LLMs: Architecture and Data Preparation - IBM (Coursera)
+<h4>
+  IBM AI Engineering Professional Certificate
+  <span style="float:right;">2026</span>
+</h4>
+
+<p><em>Coursera</em></p>
+
+<ul>
+  <li>
+    Completed 13-course specialization covering ML, DL, NLP, and Computer Vision.
+  </li>
+  
+  <li>
+    Built models using Scikit-learn, TensorFlow, Keras, and PyTorch for classification, regression, and neural networks.
+  </li>
+  
+  <li>
+    Worked with Generative AI, LLMs, RAG, and model evaluation techniques.
+  </li>
+  
+  <li>
+    Deployed ML pipelines using Apache Spark; gained hands-on experience with real-world AI workflows.
+  </li>
+</ul>
 
 ---
 
