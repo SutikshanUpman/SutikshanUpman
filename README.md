@@ -14,7 +14,6 @@
 | Project | Stack | Status |
 |---|---|---|
 | [Chest X-ray Pneumonia Detection](https://github.com/SutikshanUpman/Chest-Xray-Pneumonia-Detection) | Python, Keras, CNN, TensorFlow | 🔄 In Progress - Phase 2 |
-| [Land Classification System](https://github.com/SutikshanUpman/Land-classification-system) | Python, Keras, Pytorch, CNN, Transfer Learning | 🔄 In Progress - Phase 1 |
 
 </div>
 
