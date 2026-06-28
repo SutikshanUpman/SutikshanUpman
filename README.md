@@ -13,7 +13,7 @@
 
 | Project | Stack | Status |
 |---|---|---|
-| [Chest X-ray Pneumonia Detection](https://github.com/SutikshanUpman/Chest-Xray-Pneumonia-Detection) | Python, Keras, CNN, TensorFlow | 🔄 In Progress - Phase 2 |
+| [CodeLens Agent](https://github.com/SutikshanUpman/CodeLens-Agent) | Python, LangGraph, Groq, FastAPI, PostgreSQL, SQLAlchemy async, ChromaDB, BM25, dense embeddings (hybrid, RRF), PyGithub, Server-Sent Events (SSE), RAGAS, Docker + Docker Compose   | 🔄 In Progress - Phase 2 |
 
 </div>
 
