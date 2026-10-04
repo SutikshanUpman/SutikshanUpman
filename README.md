@@ -14,7 +14,6 @@
 | Project | Stack | Highlight |
 |---|---|---|
 | [MediGuard AI](https://github.com/SutikshanUpman/MediGuard-AI) | Python, FastAPI, OpenEnv, RL, Docker, HuggingFace | LLM agent beat rule-based baseline on all 3 ICU triage tasks (0.72 vs 0.60 F1) — Meta PyTorch x Scaler OpenEnv Hackathon 2026 |
-| [HotelGuard AI](https://github.com/SutikshanUpman/HotelGuard-AI) | Python, Gemini API, RL, Docker, Gradio | Hybrid rule + Gemini agent, cut LLM API calls by 83% — Google Solution Challenge 2026 |
 | [Chest X-ray Pneumonia Detection](https://github.com/SutikshanUpman/Chest-Xray-Pneumonia-Detection) | Python, TensorFlow/Keras, MobileNetV2, FastAPI, Express, Next.js, SQLite | Compared 6 CNN models on one test set; fine-tuned MobileNetV2 reached 0.862 accuracy, 0.995 Pneumonia recall, 0.977 ROC-AUC. Full-stack demo with Grad-CAM and a documented failure analysis |
 | [RecruiterEye](https://github.com/SutikshanUpman/RecruiterEye) | Python, LangGraph, Groq, FastAPI, PostgreSQL, ChromaDB, hybrid RAG (BM25 + dense, RRF), SSE, RAGAS, Docker | 🔄 In Progress — Phase 0 |
 
