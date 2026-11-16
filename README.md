@@ -18,7 +18,10 @@
 
 <br><br>
 
-## Selected Work
+<details open>
+<summary><b>🚀 Selected Work</b></summary>
+
+<br>
 
 <table align="center">
   <tr>
@@ -45,29 +48,48 @@
 
 <br>
 
-## Experience
+</details>
+
+<details>
+<summary><b>💼 Experience</b></summary>
+
+<br>
 
 **AI Intern** at **Impression Machinery India** · May–Jul 2026<br>
 <sub>Lead-scoring and semantic-retrieval auto-quote assistant · FastAPI · ChromaDB · Streamlit · Docker</sub>
 
 <br>
 
-## Beyond Projects
+</details>
 
-![Problems](https://img.shields.io/badge/Problems_Solved-500+-6366F1?style=flat-square)
-![LeetCode](https://img.shields.io/badge/LeetCode-1771-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+<details>
+<summary><b>🎯 Beyond Projects</b></summary>
+
+<br>
+
+![Solved](https://img.shields.io/badge/DSA_Problems_Solved-500%2B-6366F1?style=flat-square)
+![LeetCode](https://img.shields.io/badge/LeetCode_Rating-1771-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM_AI_Engineering-Certified_2026-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 <sub>Learning next: RAG evaluation · hybrid retrieval · LangGraph agents</sub>
 
 <br>
 
-## GitHub Stats
+</details>
+
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+
+<br>
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=SutikshanUpman&theme=tokyonight&hide_border=true&locale=en" alt="GitHub contribution streak" />
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SutikshanUpman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top languages" />
 </p>
+
+<br>
+
+</details>
 
 <br>
 
