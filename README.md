@@ -1,62 +1,76 @@
-<h2 align="center">Hey, I'm Sutikshan 👋</h2>
-
-<p align="center">
-  Computer Science Undergrad @ IIIT Nagpur<br>
-  Building AI applications, machine learning pipelines and backend systems<br>
-  Open to AI Engineering and Software Engineering internships · 2026–27
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sutikshanupman/">LinkedIn</a> ·
-  <a href="mailto:s.upman.mat@gmail.com">Email</a> ·
-  <a href="https://codolio.com/profile/SutikshanUpman">Coding Profile</a>
-</p>
-
----
-
-### Featured Projects
-
-| Project | What I built | Stack & status |
-|---|---|---|
-| [Resolv](https://github.com/SutikshanUpman/Resolv) | Multilingual business entity resolution, built with **The Epoch Warriors** for Amazon ML Challenge 2026. Ranked **471 / 32,000 teams**, with public leaderboard macro F0.5 **0.985978**. Combines sparse and dense retrieval, reranking and collective matching across 1.7M reference businesses and nearly 10M source records. | Python, Polars, LightGBM, PyTorch, Transformers, React, TypeScript · Competition submission complete, website replays precomputed results |
-| [Chest X-ray Pneumonia Detection](https://github.com/SutikshanUpman/Chest-Xray-Pneumonia-Detection) | Compared six model configurations on a held-out test set. Fine-tuned MobileNetV2 reached **86.22% accuracy** and **0.9768 ROC-AUC**, with **99.49% pneumonia recall** and **64.10% normal recall**. Built image upload, model comparison, Grad-CAM and scan history. | TensorFlow/Keras, FastAPI, Express, Next.js, SQLite · Local demo implemented |
-| [RecruiterEye](https://github.com/SutikshanUpman/RecruiterEye) | A GitHub review backend that ranks repositories against a job description and generates LLM reviews from README, commit and sampled source-code evidence. Uses a filter → score → review funnel to limit expensive calls. | Python, FastAPI, Groq, scikit-learn, PyGithub · Backend implemented and live-tested, web UI in progress |
-
-### Experience
-
-**AI Intern · Impression Machinery India Pvt. Ltd.**  
-May 2026 – July 2026
-
-- Built a Lead Intelligence & Auto-Quote assistant for B2B manufacturing inquiries, combining scikit-learn lead scoring with semantic product-catalog retrieval using ChromaDB and Sentence-Transformers.
-- Developed prediction, quote and feedback APIs, a human-approved retraining workflow, and a Streamlit interface backed by SQLite. Containerized the application with Docker Compose.
-
-### Tech Stack
-
-| Area | Technologies |
-|---|---|
-| Programming | Python, Java, C++, JavaScript, TypeScript, SQL |
-| Machine learning | PyTorch, TensorFlow, Keras, scikit-learn, LightGBM, Hugging Face Transformers |
-| Retrieval & LLM applications | Sentence-Transformers, ChromaDB, Groq, Gemini API |
-| Backend & web | FastAPI, Express, React, Next.js, Streamlit, Gradio |
-| Data & tools | NumPy, pandas, Polars, Matplotlib, SQLite, Docker, Git |
-
-### Currently Learning
-
-Building and evaluating RAG and agent workflows with LangChain, LangGraph, hybrid retrieval and RAGAS.
-
-### Problem Solving
-
-**400+ problems solved** across LeetCode and GeeksforGeeks · **LeetCode rating 1718** · **2★ on CodeChef**  
-[Codolio Profile](https://codolio.com/profile/SutikshanUpman)
-
-### Certification
-
-**IBM AI Engineering Professional Certificate · Coursera · 2026**  
-13-course specialization covering machine learning, deep learning, generative AI, RAG and Apache Spark, with projects using scikit-learn, TensorFlow, Keras and PyTorch.
-
----
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SutikshanUpman&theme=dark&hide_border=true" alt="GitHub contribution streak">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SutikshanUpman&layout=compact&theme=dark&hide_border=true" alt="Languages used in public GitHub repositories">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=210&section=header&text=Sutikshan%20Upman&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20%C2%B7%20Machine%20Learning%20%C2%B7%20Backend&descAlignY=60&descSize=17" alt="Sutikshan Upman" />
+
+<a href="https://github.com/SutikshanUpman">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=620&height=40&lines=I+build+ML+pipelines+and+AI+apps;471+%2F+32%2C000+teams+%C2%B7+Amazon+ML+Challenge+2026;CS+undergrad+%40+IIIT+Nagpur;Open+to+AI+%2F+SWE+internships+%C2%B7+2026%E2%80%9327" alt="Typing intro" />
+</a>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sutikshanupman/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.upman.mat@gmail.com)
+[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/SutikshanUpman)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=py,java,cpp,ts,pytorch,tensorflow,sklearn,fastapi,react,nextjs,docker,git&perline=12" alt="Tech stack" />
+
+<br><br>
+
+## Selected Work
+
+<table align="center">
+  <tr>
+    <th align="center">Project</th>
+    <th align="center">What it does</th>
+    <th align="center">Result</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SutikshanUpman/Resolv"><b>Resolv</b></a></td>
+    <td align="center">Multilingual entity resolution over 1.7M businesses and ~10M records<br><sub><code>Python</code> <code>LightGBM</code> <code>PyTorch</code> <code>React</code></sub></td>
+    <td align="center"><b>471 / 32,000</b> teams<br>Amazon ML Challenge 2026<br>0.985978 macro F0.5</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SutikshanUpman/Chest-Xray-Pneumonia-Detection"><b>Chest X-ray Detection</b></a></td>
+    <td align="center">MobileNetV2 with Grad-CAM and a full web app<br><sub><code>TensorFlow</code> <code>FastAPI</code> <code>Next.js</code></sub></td>
+    <td align="center"><b>86.22%</b> accuracy<br>0.9768 ROC-AUC<br>99.49% pneumonia recall</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SutikshanUpman/RecruiterEye"><b>RecruiterEye</b></a></td>
+    <td align="center">Ranks your repos against a job description, then writes LLM reviews via a filter → score → review funnel<br><sub><code>Python</code> <code>FastAPI</code> <code>Groq</code></sub></td>
+    <td align="center"><i>In progress</i><br>Backend live-tested, web UI next</td>
+  </tr>
+</table>
+
+<br>
+
+## Experience
+
+**AI Intern** at **Impression Machinery India** · May–Jul 2026<br>
+<sub>Lead-scoring and semantic-retrieval auto-quote assistant · FastAPI · ChromaDB · Streamlit · Docker</sub>
+
+<br>
+
+## Beyond Projects
+
+![Problems](https://img.shields.io/badge/Problems_Solved-500+-6366F1?style=flat-square)
+![LeetCode](https://img.shields.io/badge/LeetCode-1771-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_AI_Engineering-Certified_2026-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+<sub>Learning next: RAG evaluation · hybrid retrieval · LangGraph agents</sub>
+
+<br>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=SutikshanUpman&theme=tokyonight&hide_border=true&locale=en" alt="GitHub contribution streak" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SutikshanUpman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top languages" />
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=110&section=footer" alt="" />
+
 </div>
